@@ -1,0 +1,20 @@
+{
+  "name": "richard-leandro-pami",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r Aulas de programação Mobile 1 com o professor Joao Siles na ETEC Prof.Camargo Aranha\r =======\r Aulas de programação Mobile 1 com o professor Joao Siles na ETEC Prof.Camargo Aranha\r oijwefojwf\r https://app.flutterflow.io/project/teste-o3fgtt\r //>>>>>>> 8e2cda2a8308c3ade661394df682cdc6245d17f4",
+  "main": "funcoes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard691-bit/richard-leandro-pami.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard691-bit/richard-leandro-pami/issues"
+  },
+  "homepage": "https://github.com/richard691-bit/richard-leandro-pami#readme"
+}
