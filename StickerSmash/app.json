@@ -9,7 +9,12 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "O app precisa acessar sua galeria para escolher imagens.",
+        "NSPhotoLibraryAddUsageDescription": "O app precisa salvar imagens na sua galeria.",
+        "NSCameraUsageDescription": "O app precisa acessar a câmera para tirar fotos (opcional)."
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -20,6 +25,13 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
+      ,
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA",
+        "READ_MEDIA_IMAGES"
+      ]
     },
     "web": {
       "output": "static",
